@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application6</string>
+    <string name="activity">[Start an Activity]</string>
+    <string name="message">Messages</string>
+    <string name="feed">Activity Feed</string>
+    <string name="date">27</string>
+    <string name="folder">Documents</string>
+    <string name="profile">Profile</string>
+    <string name="day">MONDAY</string>
+
+</resources>
